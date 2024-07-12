@@ -1,34 +1,40 @@
 {
   "products": [
-    {
-      "name": "The Hobbit and the Lord of the Rings: Deluxe",
-      "price": "300,00",
-      "imagem": "assets/box_livroH.jpg",
-      "id": "1"
-    },
-    {
-      "name": "Estátua Nasgul - The Lord of the Rings",
-      "price": "260,00",
-      "imagem": "assets/Nasgul.png",
-      "id": "2"
-    },
-    {
-      "name": "Gandalf - O Cinzento - The Lord of the Rings",
-      "price": "2.300,00",
-      "imagem": "assets/gandalf.png",
-      "id": "4"
-    },
-    {
-      "name": "Espada Decorativa Anduril Narsil",
-      "price": "900,00",
-      "imagem": "assets/espada_anduril.png",
-      "id": "5"
-    },
-    {
-      "id": "d719",
-      "name": "Funko Aragorn - Senhor dos Anéis",
-      "price": "139.00",
-      "imagem": "https://m.media-amazon.com/images/I/61bxTQnqRFL.__AC_SX300_SY300_QL70_ML2_.jpg"
-    }
-  ]
+  {
+    "name": "Cave Troll - The Lord of the Rings",
+    "price": "900,00",
+    "imagem": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/_/l/_lotr_cavetrollmini_002.jpg",
+    "id": "1"
+  },
+  {
+    "name": "Witch King - The Lord of the Rings",
+    "price": "2.260,00",
+    "imagem": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/_/l/_lotr_witchkingclassic_002.jpg",
+    "id": "2"
+  },
+  {
+    "name": "Sauron - The Lord of the Rings",
+    "price": "2.300,00",
+    "imagem": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/_/l/_lotr_sauron_mini_002.jpg",
+    "id": "4"
+  },
+  {
+    "name": "Gimli - The Lord of the Rings",
+    "price": "900,00",
+    "imagem": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/1/6/1630531050cea4636eb3991dc9db9d6971c2dad4b3.jpg",
+    "id": "5"
+  },
+  {
+    "id": "d719",
+    "name": "Aragorn - Senhor dos Anéis",
+    "price": "1.239.00",
+    "imagem": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/1/6/1649280397df2d152c5263ca2113417e8c14410691.jpg"
+  },
+  {
+    "id": "d719",
+    "name": "Saruman - Senhor dos Anéis",
+    "price": "1.900.00",
+    "imagem": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/_/l/_lotr_saruman_classic_002.jpg"
+  }
+]
 }
